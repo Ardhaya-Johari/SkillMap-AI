@@ -1,7 +1,6 @@
-# 🚀 SkillMap AI  
-## Personalized Skill Gap Self-Diagnosis Platform  
-
-> Empowering students with clarity, direction, and personalized learning roadmaps.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=1000&color=FF69B4&center=true&vCenter=true&width=1200&lines=🚀+SkillMap+AI;Personalized+Skill+Gap;Self-Diagnosis+Platform" alt="Typing SVG" />
+</p>
 
 ---
 
