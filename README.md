@@ -293,16 +293,6 @@ Used for demo and testing purposes.
 - Improved career readiness  
 - Increased student confidence  
 
----
-
-# 🏆 Special Thanks 
-
-Built for:
-
-### #AMUHACKS5.0  
-### #CSSAMU  
-### #CSDAMU  
-### #AMU  
 
 ---
 
