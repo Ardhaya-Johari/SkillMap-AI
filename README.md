@@ -2,8 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=1000&color=FF69B4&center=true&vCenter=true&width=1200&lines=🚀+SkillMap+AI;Personalized+Skill+Gap;Self-Diagnosis+Platform" alt="Typing SVG" />
 </p>
 
+---
+## 📌 Overview
 
+**SkillMap AI** is a modular, scalable, production-ready platform that helps students:
 
+- Analyze their current skill competency  
+- Identify skill gaps aligned with career goals  
+- Generate personalized, prioritized learning roadmaps  
+- Track progress using visual analytics  
+
+Unlike generic platforms, SkillMap AI provides **goal-driven, AI-powered self-diagnosis**.
 
 ---
 
