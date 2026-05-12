@@ -4,9 +4,14 @@
 
 ---
 ## 📌 Overview
+**SkillMap AI** is a modular, scalable, production-ready platform that helps students:
 
+- Analyze their current skill competency  
+- Identify skill gaps aligned with career goals  
+- Generate personalized, prioritized learning roadmaps  
+- Track progress using visual analytics  
 
-
+Unlike generic platforms, SkillMap AI provides **goal-driven, AI-powered self-diagnosis**.
 ---
 
 # ❗ Problem Statement
